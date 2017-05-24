@@ -1,0 +1,494 @@
+body{
+    background-color:#1F2C33;
+}
+
+.clearfix{
+    clear: both;
+}
+
+header{
+    display: block;
+    height: 165px;
+}
+.logo{
+    width: 300px;
+    margin-left: 15%;
+    display: inline-block;
+}
+
+nav ul{
+    display: inline-block;
+    float: right;
+    margin-top: -158px;
+    margin-right:10% ;
+}
+
+nav ul li{
+    display: inline-block;
+    text-align: center;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 0 15px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.2em;
+}
+
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #3FE2C6;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+
+.kop1{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    width: 60%;
+    font-size: 1.5em;
+    max-width: 800px;
+    line-height: 35px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 120px;
+    margin-bottom: 100px;
+}
+
+.imgList{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.imgList li{
+    width: 400px;
+    margin: 0 auto;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.imgList li img{
+    width: 380px;
+    display: block;
+    margin: 0 auto;
+}
+
+footer{
+    margin-top: 30px;
+    padding-top: 20px;
+    background-color: white;
+}
+
+.right{
+    float: right;
+    margin-right: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.left{
+    float:left;
+    margin-left: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footerLeft li h1{
+    color: #1F2C33;;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+.footerLeft li p{
+    color: #1F2C33;;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    width: 190px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.right h1{
+    color: #1F2C33;;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.5em;
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.footerRight li{
+    display: inline-block;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.footerRight li img{
+    background-color: #1F2C33;;
+    width: 50px;
+    height: 50px;
+    margin: 25px 25px;
+}
+
+.voorstelling li{
+
+display: inline-block;
+margin: 0 auto;
+width: 200px;
+margin-left: 15%;
+
+   
+}
+
+h2 {
+
+color: #3FE2C6;
+font-size: 18pt;
+text-align: center;
+font-family: 'Raleway', sans-serif;
+margin-top: 20px;
+
+}
+
+.overons {
+
+    color: white;
+    font-size: 12pt;
+    font-family: 'Jacques Francois', serif;
+    text-align: justify;
+    margin: 15px -15px 80px -15px;
+}
+
+.wijontwerpen li{
+
+
+margin-left: 60%;
+
+    list-style: circle;
+    color: white;
+    font-size: 20pt;
+    font-family: 'Jacques Francois', serif;
+    line-height: 50px;
+}
+
+.schets {
+
+    height: 400px;
+
+ display: block;
+    margin: 40px auto 80px auto;
+  
+}
+
+.contact {
+
+text-align: left;
+margin: 10px 20%;
+
+
+}
+
+.input {
+
+    margin: 5px 0px  40px 20%;
+}
+
+.btn {
+  background: #3FE2C6;
+  background-image: -webkit-linear-gradient(top, #3FE2C6, #3FE2C6);
+  background-image: -moz-linear-gradient(top, #3FE2C6, #3FE2C6);
+  background-image: -ms-linear-gradient(top, #3FE2C6, #3FE2C6);
+  background-image: -o-linear-gradient(top, #3FE2C6, #3FE2C6);
+  background-image: linear-gradient(to bottom, #3FE2C6, #3FE2C6);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 5px 0px  20px 20%;
+}
+
+.btn:hover {
+  background: #1F2C33;
+  background-image: -webkit-linear-gradient(top, #1F2C33, #1F2C33);
+  background-image: -moz-linear-gradient(top, #1F2C33, #1F2C33);
+  background-image: -ms-linear-gradient(top, #1F2C33, #1F2C33);
+  background-image: -o-linear-gradient(top, #1F2C33, #1F2C33);
+  background-image: linear-gradient(to bottom, #1F2C33, #1F2C33);
+  text-decoration: none;
+}
+
+.map {
+
+ display: block;
+    margin: -20px auto 100px auto;
+
+}
+
+
+.bredalive {
+
+height: 350px;
+display: inline;
+margin-left: 310px;
+margin-bottom: 50px;
+
+}
+
+.bredalivetekst {
+
+  color: white;
+    font-size: 15pt;
+
+    font-family: 'Jacques Francois', serif;
+    text-align: justify;
+   display: block;
+   margin-left: 620px;
+   margin-right: 300px;
+   line-height: 18pt;
+   margin-top: -370px;
+   margin-bottom: 150px;
+
+
+}
+.bredalivefoto {
+
+    display: block;
+}
+.bredalivefoto:hover {
+    opacity: 0.2;
+     
+}
+
+.knopport {
+
+  background: #3FE2C6;
+  background-image: -webkit-linear-gradient(top, #3FE2C6, #3FE2C6);
+  background-image: -moz-linear-gradient(top, #3FE2C6, #3FE2C6);
+  background-image: -ms-linear-gradient(top, #3FE2C6, #3FE2C6);
+  background-image: -o-linear-gradient(top, #3FE2C6, #3FE2C6);
+  background-image: linear-gradient(to bottom, #3FE2C6, #3FE2C6);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: block;
+  margin: auto;
+  margin-top: -50px;
+  margin-bottom: 50px;
+
+}
+
+.knopport:hover {
+
+ background: #1F2C33;
+  background-image: -webkit-linear-gradient(top, #1F2C33, #1F2C33);
+  background-image: -moz-linear-gradient(top, #1F2C33, #1F2C33);
+  background-image: -ms-linear-gradient(top, #1F2C33, #1F2C33);
+  background-image: -o-linear-gradient(top, #1F2C33, #1F2C33);
+  background-image: linear-gradient(to bottom, #1F2C33, #1F2C33);
+  text-decoration: none;
+
+}
+
+
+
+@media screen and (max-width: 480px) {
+
+body {
+
+overflow-y: hidden;
+    
+}
+
+ .logo   {
+
+width: 70%;
+height: auto;
+margin: 0 0 20px 23%;
+display: block;
+}
+.kop1 {
+
+    margin-top: 95%;
+    font-size: 16pt;
+}
+
+
+
+nav ul {
+
+display: inline-block;
+margin: 0 auto;
+margin-top: -80px;
+width: 100%;
+text-align: center;
+
+}
+
+nav ul li a {
+    
+    font-size: 20pt;
+    display: inline-block;
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.left {
+
+    float: none;
+}
+.right
+{
+
+    float: none;
+}
+
+.footerLeft li {
+
+    
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    margin-left: 10%;
+}
+
+.footerLeft li h1{
+
+    
+   margin-right: 50px;
+   margin-left: 50px;
+}
+
+
+.footerRight li {
+
+    
+    display: inline-block;
+    
+    text-align: center;
+    margin-left: 16%;
+    margin-bottom: 20%;
+}
+
+.footerRight li h1{
+
+    
+   margin-right: 0px;
+   margin-left: 300px;
+}
+
+.right {
+
+margin-left: 80px;
+
+}
+
+.voorstelling {
+
+    margin-left: -70px;
+    text-align: center;
+}
+
+.schets {
+
+height: 230px;
+   
+}
+
+.wijontwerpen li {
+
+    font-size: 13pt;
+    margin-top: -10px;
+
+}
+
+.contact{
+
+font-size: 15pt;
+margin-left: 50px;
+
+}
+
+.input {
+
+    size: 20px;
+    margin-left: 50px;
+    width: 250px;
+}
+
+.map{
+
+height: 300px;
+width: 260px;
+}
+
+.btn{
+
+    margin-bottom: 0px;
+}
+
+.kop1.bezoek {
+
+margin-top: 100px;
+margin-bottom: 50px;
+
+}
+
+.bredalive{
+
+    
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: auto;
+    margin-top: -55px;
+    margin-bottom: 15px;
+
+}
+
+.bredalivetekst{
+    display: block;
+    margin: auto;
+    font-size: 12pt;
+    line-height: 14pt;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.imgList li {
+
+width: 180px;
+margin-left: -30px;
+margin-right: 100px;
+
+
+}
+
+.imgList li img{
+
+width: 300px;
+margin: 0;
+
+
+}
+
+}
